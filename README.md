@@ -1,4 +1,4 @@
-# Sparkify Data Warehouse - My Project Journey
+# AWS Data Warehouse - My Project Journey
 
 ## Project Overview
 
