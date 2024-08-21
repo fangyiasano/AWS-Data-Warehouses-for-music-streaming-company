@@ -70,7 +70,7 @@ To execute the ETL process, I created Python scripts that performed the followin
 2. `etl.py`: Script to load data from S3 into staging tables on Redshift and then process that data into the analytics tables.
 3. `sql_queries.py`: Contains all the SQL queries executed in the other scripts.
 
-## Example Queries and Results
+## Example Queries
 
 Below are some example queries that could be run to generate insights from the data:
 
