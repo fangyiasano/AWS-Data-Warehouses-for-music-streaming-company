@@ -82,6 +82,7 @@ JOIN songs ON songplays.song_id = songs.song_id
 GROUP BY songs.title
 ORDER BY play_count DESC
 LIMIT 1;
+```
 
 ### Query 2: Peak Usage Time by Hour
 ```sql
