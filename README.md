@@ -1,4 +1,4 @@
-# AWS Data Warehouse for Music streaming company
+# AWS Data Warehouse for music streaming company
 
 ## Project Overview
 
