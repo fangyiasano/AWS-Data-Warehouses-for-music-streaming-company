@@ -11,7 +11,8 @@ The database and ETL pipeline were designed to help the music streaming company 
 ## Database Schema Design
 
 The schema used for this project is the **Star Schema**, optimized for queries on song play analysis. This schema design provides a simple and intuitive way to query the data, focusing on read operations for analytics purposes.
-<img width="831" alt="image" src="https://github.com/user-attachments/assets/e17fc8cd-43fe-401f-a5a1-9e64397a3eff">
+![chart10](https://github.com/user-attachments/assets/cde6cb84-0cc3-4bb0-b768-333cc978124e)
+
 
 ### Fact Table
 - **songplays** - Records in event data associated with song plays (page = 'NextSong')
